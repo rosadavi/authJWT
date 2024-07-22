@@ -14,7 +14,9 @@
     "bcrypt": "^5.1.1",
     "dotenv": "^16.4.5",
     "exppress": "^0.0.1-security",
+    "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.8.0",
     "mongoose": "^8.5.1"
   }
 }
